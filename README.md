@@ -106,4 +106,3 @@ The commands/batch files are executed successfully.
 # RESULT:
 The commands/batch files are executed successfully.
 
-](https://github.com/mageshsivakumar/Linux-IPC-Shared-memory/blob/main/README.md)
